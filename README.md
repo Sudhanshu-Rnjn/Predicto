@@ -4,7 +4,7 @@ Crop disease prediction using Machine Learning and IoT (Mega Project)
 # Live Preview
 Go to: https://predicto-cdp.herokuapp.com/
 
-## Abstract
+## Abstract 
 
 Environmental parameters like humidity, temperature, rainfall, wind flow, light intensity,
 soil pH are main factors for precision agriculture. The real-time update will alert the
