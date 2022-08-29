@@ -10,7 +10,6 @@ from datetime import datetime
 import statistics as stat
 
 
-
 # Your API definition
 app = Flask(__name__)
 
